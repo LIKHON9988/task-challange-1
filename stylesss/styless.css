@@ -271,7 +271,7 @@ body{
 
 /* responsive part */
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:700px) {
       .navbar,.navbar ul {
         flex-direction: column;
         margin-bottom: 0%;
